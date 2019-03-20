@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# other
+dist
+.nuxt
+.vscode
+.DS_STORE
